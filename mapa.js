@@ -10,8 +10,8 @@ const body = [
   [[46.2017558, 6.1466014], 'Ženeva, Babiš mladší tam dlouhodobě žije se svou matkou'],
   [[54.7101281, 20.5105836], 'Kaliningrad, návštěva s ošetřovatelem v květnu 2016'],
   [[48.1516986, 17.1093064], 'Bratislava, původní bydliště Beáty Babišové'],
-  [[44.6054433, 33.5220842], 'Sevastopol - cílová destinace na Krymu'],
-  [[44.4970714, 34.1586869], 'Jalta - místo pobytu Jelizavety'],
+  [[44.6054433, 33.5220842], 'Sevastopol, cílová destinace na Krymu'],
+  [[44.4970714, 34.1586869], 'Jalta, místo pobytu Jelizavety'],
 ];
 
 const map = L.map('babis');
